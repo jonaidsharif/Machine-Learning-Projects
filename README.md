@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 
 
-**Project - 01: ** SONAR Rock vs Mine Prediction with Python
+<b>Project - 01:</b> SONAR Rock vs Mine Prediction with Python
  - > The prediction model is built using a Logistic Regression algorithm.
 
 <h3>Project Overview</h3>
@@ -11,7 +11,7 @@ The objective of this project is to classify objects as either a rock or a mine 
 The dataset used for this project is the SONAR dataset, which contains 208 instances with 60 attributes each, representing the energy of sonar signals bounced off different objects.
 
 
-**Project - 02: ** Diabetes Prediction using Machine Learning
+<b>Project - 02:<b/> Diabetes Prediction using Machine Learning
 This repository contains a Python project that predicts whether a person has diabetes based on medical diagnostic measurements. The prediction model is built using a Support Vector Machine (SVM) algorithm.
 
 <h3>Project Overview</h3>
