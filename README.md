@@ -10,6 +10,7 @@ The objective of this project is to classify objects as either a rock or a mine 
 <h5>Dataset</h5>
 The dataset used for this project is the SONAR dataset, which contains 208 instances with 60 attributes each, representing the energy of sonar signals bounced off different objects.
 
+<h>
 
 <b>Project - 02:</b> Diabetes Prediction using Machine Learning
 - > The predicts whether a person has diabetes based on medical diagnostic measurements. The prediction model is built using a Support Vector Machine (SVM) algorithm.
